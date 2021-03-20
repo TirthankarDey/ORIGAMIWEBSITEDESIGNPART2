@@ -1,0 +1,16 @@
+body{
+    background-color: goldenrod;
+}
+p{
+    color: lightgreen;
+  }
+   li{
+       color: lightgoldenrodyellow;
+   }
+  img{
+      border: solid;
+      display: flexbox;
+  }
+  h1{
+      background-color: cyan;
+  }
